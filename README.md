@@ -42,18 +42,18 @@ Mappings for Cracking the Coding Interview (6th edition) problems to closest mat
 
 | Problem | LeetCode |
 |---------|----------|
-| 4.1       | []() |
-| 4.2 | []() |
-| 4.3 | []() |
-| 4.4 | []() |
-| 4.5 | []() |
-| 4.6 | []() |
-| 4.7 | []() |
-| 4.8 | []() |
-| 4.9 | []() |
-| 4.10 | []() |
-| 4.11 | []() |
-| 4.12 | []() |
+| 4.1       | [1971. Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph/) |
+| 4.2 | [108. Covert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) |
+| 4.3 | [102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) |
+| 4.4 | [110. Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) |
+| 4.5 | [98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) |
+| 4.6 | [510. Inorder Successor in BST II](https://leetcode.com/problems/inorder-successor-in-bst-ii/) |
+| 4.7 | [210. Course Schedule II](https://leetcode.com/problems/course-schedule-ii/) |
+| 4.8 | [236. Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) |
+| 4.9 | [1569. Number of Ways to Reorder Array to Get Same BST](https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst/) |
+| 4.10 | [572. Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/) |
+| 4.11 | [381. Insert Delete GetRandom](https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed/) |
+| 4.12 | [437. Path Sum III](https://leetcode.com/problems/path-sum-iii/) |
 
 # Bit Manipulation
 

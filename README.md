@@ -18,14 +18,14 @@ Mappings for Cracking the Coding Interview (6th edition) problems to closest mat
 
 | Problem | LeetCode |
 |---------|----------|
-| 2.1       | []() |
-| 2.2       | []() |
-| 2.3       | []() |
-| 2.4       | []() |
-| 2.5       | []() |
-| 2.6       | []() |
-| 2.7 | []() |
-| 2.8 | []() |
+| 2.1       | [1836. Remove Duplicates from an Unsorted Linked List](https://leetcode.com/problems/remove-duplicates-from-an-unsorted-linked-list/) |
+| 2.2       | [19. Remove Nth Node from End of List](https://leetcode.com/problems/remove-duplicates-from-an-unsorted-linked-list/) |
+| 2.3       | [876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) |
+| 2.4 | [86. Partition List](https://leetcode.com/problems/partition-list/) |
+| 2.5       | [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) with follow up [445. Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/) |
+| 2.6       | [234. Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) |
+| 2.7       | [160. Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) |
+| 2.8 | [142. Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) |
 
 # Stacks and Queues
 

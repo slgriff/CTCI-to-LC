@@ -32,9 +32,9 @@ Mappings for Cracking the Coding Interview (6th edition) problems to closest mat
 | Problem | LeetCode |
 |---------|----------|
 | 3.1       | []() |
-| 3.2 | []() |
-| 3.3 | []() |
-| 3.4 | []() |
+| 3.2 | [155. Min Stack](https://leetcode.com/problems/min-stack/) |
+| 3.3 | [1172. Dinner Plate Stacks](https://leetcode.com/problems/dinner-plate-stacks/) |
+| 3.4 | [232. Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) |
 | 3.5 | []() |
 | 3.6 | []() |
 
